@@ -1,1 +1,5 @@
-YCCE Website
+
+College Website
+
+Welcome to the YCCE Website repository!
+
