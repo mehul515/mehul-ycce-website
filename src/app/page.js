@@ -11,6 +11,7 @@ export default function Home() {
     <>
       <Header /> 
       <Footer/>
+      <h1>Home</h1>
     </>
   );
 }
