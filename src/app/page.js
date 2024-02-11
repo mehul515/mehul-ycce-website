@@ -12,8 +12,8 @@ export default function Home() {
   return (
     <>
       <Header />
-      <AboutMegheGroup />
       <Departments />
+      <AboutMegheGroup />
       <Footer />
       {/* New Components will add here */}
     </>
