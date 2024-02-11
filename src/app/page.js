@@ -15,6 +15,7 @@ export default function Home() {
       <AboutMegheGroup />
       <Departments />
       <Footer />
+      {/* New Components will add here */}
     </>
   );
 }
