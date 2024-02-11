@@ -1,0 +1,57 @@
+[
+  {
+    "name": "PROGRAMS",
+    "value": "programs",
+    "content": [
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum"
+    ]
+  },
+  {
+    "name": "ADMISSIONS",
+    "value": "admissions",
+    "content": [
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum"
+    ]
+  },
+  {
+    "name": "CAMPUS LIFE",
+    "value": "campus-life",
+    "content": [
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum"
+    ]
+  },
+  {
+    "name": "PLACEMENTS",
+    "value": "placements",
+    "content": [
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum"
+    ]
+  },
+  {
+    "name": "ABOUT",
+    "value": "about",
+    "content": [
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum",
+      "lorem ipsum"
+    ]
+  }
+]
