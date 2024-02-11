@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { HeaderMenu } from "@/components/ui/HeaderMenu";
 import Header from "@/components/Header";
 import AboutMegheGroup from "@/components/AboutMegheGroup";
-import Deparments from "@/components/Deparments";
+import Departments from "@/components/Departments";
 import Footer from "@/components/Footer";
 const logo = require("../../public/ycce_logo.png");
 
@@ -13,7 +13,7 @@ export default function Home() {
     <>
       <Header />
       <AboutMegheGroup />
-      <Deparments />
+      <Departments />
       <Footer />
     </>
   );
