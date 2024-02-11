@@ -4,7 +4,7 @@ const groupImg = require("../../public/meghe-group.jpeg");
 
 function AboutMegheGroup() {
   return (
-    <div className="bg-[#F2FBFE] border-2 border-black w-full flex flex-col-reverse justify-center items-center pb-20 md:py-36 px-5 sm:px-20 lg:px-44 lg:flex-row">
+    <div className="bg-[#F2FBFE] w-full flex flex-col-reverse justify-center items-center pb-20 md:py-36 px-5 sm:px-20 lg:px-44 lg:flex-row">
       <div className="basis-3/4">
         <h1 className="text-[#3092DD] font-poppins text-3xl lg:text-4xl font-semibold my-5 text-center lg:text-left">
           About Meghe Group
